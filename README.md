@@ -1,4 +1,4 @@
-# Strapi template for Platform.sh
+# Strapi template for Platform.sh try deploy
 
 <p align="center">
 <a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/strapi/.platform.template.yaml&utm_content=strapi&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
